@@ -33,10 +33,16 @@
    * Briefly describe its function
    * Explain why it's essential for new engineers (in your own words)
 
-**Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+**Answer:**
+*chmod – This command manages file permissions which is crucial for security and access control
+grep – This command is essential for searching text within files. It allows engineers to quickly find specific information in large log files *
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+*This is a valuable course for the field, covering essential fundamentals that everyone should know.
+ The professor teaches very well, pays attention to students, and puts effort into creating learning materials
+ and finding effective ways to help students understand. If I don't understand the lessons, it's probably my own fault since
+ I sometimes pay attention and sometimes don't. I thought it was easy, but when I put things off,
+ I had to catch up on my own, and it sometimes felt difficult. I encourage those who are interested to submit their work and put effort
+ into every assignment given by the professor—it will definitely benefit them in the long run.*
